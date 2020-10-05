@@ -34,7 +34,7 @@ namespace Dock {
 /**
  * @brief A view shown if the active device is currently paired and available
  *
- * This screen is made up of three sections: Notifications and device info, SMS and File Transfer
+ * This screen is made up of three sections: Notifications and device info and SMS
  *
  * It also contains a sidebar widget on the left-hand side
  */
